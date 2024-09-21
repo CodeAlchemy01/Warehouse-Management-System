@@ -1,5 +1,10 @@
 # Warehouse Management System (WMS) SaaS
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ## Description
 A cloud-based Warehouse Management System designed to optimize and streamline warehouse operations, offering seamless access and management from anywhere, at any time.
 
